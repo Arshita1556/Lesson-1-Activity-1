@@ -1,0 +1,5 @@
+print("Hello how are you") 
+print(8) 
+print("Nice to meet you\n") 
+print("Welcome",4) 
+print("See you later",end="*")
