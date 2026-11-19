@@ -1,16 +1,15 @@
-# 1) Store an integer value in `a`.
-a=5
-# 2) Print the datatype of `a` using `type()`.
-print ("type of a is",type(a))
-# 3) Store a decimal (float) value in `b`.
-b=3.3 
-# 4) Print the datatype of `b` using `type()`.
-print ("type of b is",type(b))
-# 5) Store a text (string) value in `c`.
-c="hello"
-# 6) Print the datatype of `c` using `type()`.
-print ("type of c is",type(c))
-# 7) Store a boolean value (True/False) in `d`.
-d=True
-# 8) Print the datatype of `d` using `type()`.
-print ("type of d is",type(d))
+# 1) Store the values for each tree in separate variables: tree1, tree2, tree3, tree4, tree5
+tree1=1 
+tree2=2
+tree3=3
+tree4=4
+tree5=5
+# 2) Add all 5 tree values and store the result in `sum`
+sum=tree1+tree2+tree3+tree4+tree5
+
+# 3) Print the total (`sum`) of all 5 trees
+print("sum=",sum)
+# 4) Divide `sum` by 5 to find the average and store it in `average`
+average=sum/5
+# 5) Print the average (`average`) of all 5 
+print("average=",average)
